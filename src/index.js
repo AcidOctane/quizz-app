@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import "./assets/style.css";
 import  ReactDom from "react-dom";
 
-export default class QuizBee extends Component {
+class QuizBee extends Component {
   render() {
     return (
       <div className="container">
